@@ -1,0 +1,1 @@
+export const LIST_ARR = 'list_arr'
